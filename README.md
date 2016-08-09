@@ -1,0 +1,2 @@
+# PRMLPractice
+PRMLに載っているアルゴリズムを模倣していく
